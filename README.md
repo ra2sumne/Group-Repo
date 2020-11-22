@@ -82,8 +82,6 @@ Summarize your conclusions. This should include a numerical summary (i.e., what 
 Our hypothesis is that the gap between production and consumption is driving growth in mining stocks. However, data showed that the gap between supply and demand has been declining and in 2019, for the first time, production exceeded consumption.
 
 
-<img src=Group-Repo/Visualization/Energy_Prod_and_Con/3D_plot.PNG>
-
 
 We reflected our findings to show the production exceeding consumption in 2019 using an ‘hvPlot’ bar graph. U.S. energy consumption will continue to grow more slowly than gross domestic product as U.S. energy efficiency continues to increase. 
 
